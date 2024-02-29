@@ -1,3 +1,4 @@
+//This project uses C++ programming to display a calendar for the user, and allows them to input/delete events.
 #include <iostream>
 #include <iomanip>
 #include <vector>
