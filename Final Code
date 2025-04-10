@@ -1,4 +1,5 @@
-//This project uses C++ programming to display a calendar for the user, and allows them to input/delete events.
+//This project uses C++ programming to display a calendar for the user and allows them to input/delete events.
+
 #include <iostream>
 #include <iomanip>
 #include <vector>
@@ -248,4 +249,4 @@ int main() {
         }
     } while (choice != 7);
 
-    return 0;
+    return 0; }
